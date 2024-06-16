@@ -57,21 +57,21 @@ knitr::include_graphics("../images/roger/roger.jpg")
 ::: {.column width="60%"}
 #### Current position
 
-  - `Business Analysis Manager, T-Mobile`
+-   `Business Analysis Manager, T-Mobile`
 
 #### Interests
 
-  - `Open Source GIS, R Data Science`
+-   `Open Source GIS, R Data Science`
 
 #### Hobbies
 
-  - `Fly fishing, woodworking`
+-   `Fly fishing, woodworking`
 
 #### Previous Talks
 
-  - [`Using RStudio for Geospatial Analysis`](https://lagerratrobe.quarto.pub/rstudio-for-practical-geospatial-analysis/#/title-slide)
-  - [`Thoughts on Parallelization in R`](https://lagerratrobe.quarto.pub/thoughts-on-paralleliaztion-in-r/#/title-slide)
-  - [`Using GDAL for Data Processing and Analysis`](https://upload.osgeo.org/gdal/presentations/OpenSource_Weds_Andre_CUGOS.pdf)
+-   [`Using RStudio for Geospatial Analysis`](https://lagerratrobe.quarto.pub/rstudio-for-practical-geospatial-analysis/#/title-slide)
+-   [`Thoughts on Parallelization in R`](https://lagerratrobe.quarto.pub/thoughts-on-paralleliaztion-in-r/#/title-slide)
+-   [`Using GDAL for Data Processing and Analysis`](https://upload.osgeo.org/gdal/presentations/OpenSource_Weds_Andre_CUGOS.pdf)
 :::
 :::
 
@@ -247,8 +247,9 @@ knitr::include_graphics("../images/tidyterra.png")
     -   Has a few abilities lacking in `terra` (e.g., non-regular
         shapes)
 
-    -   Many `sf` functions work with stars objects Not as well
-        documented
+    -   Many `sf` functions work with stars objects
+
+    -   Not as well documented
 
 ```{r, echo = FALSE, out.width = "700px", fig.cap="Source: Edzer Pebesama"}
 knitr::include_graphics("../images/stars_raster_data.png")
